@@ -4,10 +4,12 @@ Scrivi un programma che stampi in console i numeri da 1 a 100, ma che per i mult
 
 //creo un ciclo con la sintassi giusta fino a 101
 
+//se di mutipli di 3 e 5 avra un'altra convenzione
+
+
 //che abbia la convenzione if dei mutipli di 3
 
 //ad anche la convenzione if dei mutipli di 5
 
-//se di mutipli di 3 e 5 avra un'altra convenzione
 
 
