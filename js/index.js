@@ -19,6 +19,8 @@ for (let i= 1; i < 101; i++) {
         //usando append dare al contenuto il valore della variabile 
         li.append('fizzbuzz')
         ul.append(li)
+        //aggiungo lista colore
+        li.classList.add('color')
 
     //se no solo i mutipli di 5 buzz
      }else if (i % 5 === 0) {
@@ -26,6 +28,8 @@ for (let i= 1; i < 101; i++) {
         //usando append dare al contenuto il valore della variabile 
         li.append('buzz')
         ul.append(li)
+        //aggiungo lista colore2
+        li.classList.add('color2')
 
     //se no solo i mutipli di 3  fizz
      } else if(i % 3 === 0) {
@@ -34,6 +38,8 @@ for (let i= 1; i < 101; i++) {
         //usando append dare al contenuto il valore della variabile 
         li.append('fizz')
         ul.append(li)
+        //aggiungo lista colore3
+        li.classList.add('color3')
 
      }//altrimenti resta un numero
      else {
